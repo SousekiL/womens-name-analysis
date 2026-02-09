@@ -1,0 +1,93 @@
+# R Project Files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large Data Files
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.RData
+*.rda
+*.feather
+*.parquet
+*.dta
+*.sav
+*.json
+*.xml
+!example*.csv
+!sample*.csv
+
+# Compressed Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+*~
+.#*
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+.ipynb_checkpoints/
+
+# Output Directories (uncomment if you want to exclude generated plots/outputs)
+# output/
+# results/
+# figures/
+
+# Environment and Configuration
+.env
+.env.local
+.Renviron
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Large Binary Files
+*.pdf
+*.docx
+*.pptx
+!README*.pdf
+!documentation*.pdf
+
+# HTML outputs (from R Markdown)
+*.html
+!index.html
+!README.html
