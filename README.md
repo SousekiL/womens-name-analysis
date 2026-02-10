@@ -1,5 +1,7 @@
 # Women's Name Analysis
 
+> **[Article Summary (English)](SUMMARY.md)** — A comprehensive English summary of the original WeChat article, including key findings and visualizations.
+
 Analysis of female naming patterns in imperial China using kinship network data, exploring how women were named, referenced, and remembered throughout Chinese history.
 
 ## Overview
