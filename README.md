@@ -1,6 +1,6 @@
 # Women's Name Analysis
 
-> **[Article Summary (English)](SUMMARY.md)** — A comprehensive English summary of the original WeChat article, including key findings and visualizations.
+**English** · [原文 / Original article](README_CH.md) · [Article summary (English)](SUMMARY.md) · [WeChat article (中文)](https://mp.weixin.qq.com/s/RdEKaUdwB51W1mP4QlPahg)
 
 Analysis of female naming patterns in imperial China using kinship network data, exploring how women were named, referenced, and remembered throughout Chinese history.
 
@@ -135,7 +135,7 @@ References in Imperial China.
 
 ## License
 
-MIT License
+Code is released under the [MIT License](LICENSE). Figures and text are © Felix Liu, licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). CBDB data are not redistributed here.
 
 ## Acknowledgments
 
